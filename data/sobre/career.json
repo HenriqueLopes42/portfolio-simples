@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Desenvolvedor Full Stack",
+    "company": "Inovvati Tecnologia",
+    "period": "Abr 2022 – Atualmente",
+    "location": "São Paulo, Brasil (Remoto)",
+    "description": "Atuação no desenvolvimento e manutenção de sistemas web utilizando C#, .NET Core e Entity Framework. Front-end com Angular e React. Otimização de queries SQL e participação ativa em reuniões de arquitetura.",
+    "skills": ["C#", ".NET", "React", "SQL Server", "Azure"]
+  },
+  {
+    "id": 2,
+    "role": "Desenvolvedor Júnior",
+    "company": "Mil Tec Tecnologia",
+    "period": "Nov 2021 – Abr 2022",
+    "location": "Campo Grande, MS",
+    "description": "Desenvolvimento de funcionalidades para sistemas internos, correção de bugs e suporte a aplicações legadas em .NET Framework.",
+    "skills": [".NET Framework", "Javascript", "jQuery", "Bootstrap"]
+  },
+  {
+    "id": 3,
+    "role": "Suporte Técnico (Back Office)",
+    "company": "Digital Net",
+    "period": "Jun 2021 – Nov 2021",
+    "location": "Campo Grande, MS",
+    "description": "Atendimento a chamados técnicos de nível 2, análise de logs e suporte à infraestrutura básica de redes e servidores.",
+    "skills": ["Linux", "Redes", "Atendimento"]
+  }
+]
