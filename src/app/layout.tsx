@@ -31,8 +31,8 @@ export default function RootLayout({
 }>) {
   return (
     // suppressHydrationWarning é seguro aqui e necessário para next-themes
-    <html lang="pt-BR" suppressHydrationWarning>
-      <body className={`${inter.className} antialiased bg-white dark:bg-slate-950 text-slate-900 dark:text-slate-50 transition-colors duration-300`}>
+    <html lang="pt-BR" suppressHydrationWarning className="h-full">
+      <body className={`${inter.className} antialiased bg-white dark:bg-slate-950 text-slate-900 dark:text-slate-50 transition-colors duration-300 antialiased min-h-screen flex flex-col`}>
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
