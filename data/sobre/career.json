@@ -4,9 +4,9 @@
     "role": "Desenvolvedor Full Stack",
     "company": "Inovvati Tecnologia",
     "period": "Abr 2022 – Atualmente",
-    "location": "São Paulo, Brasil (Remoto)",
-    "description": "Atuação no desenvolvimento e manutenção de sistemas web utilizando C#, .NET Core e Entity Framework. Front-end com Angular e React. Otimização de queries SQL e participação ativa em reuniões de arquitetura.",
-    "skills": ["C#", ".NET", "React", "SQL Server", "Azure"]
+    "location": "Campo Grande, MS",
+    "description": "Atuação na manutenção corretiva e evolutiva de sistemas legados, garantindo estabilidade. Desenvolvimento de novas soluções de software e funcionalidades sob demanda, desde a análise de requisitos até a implementação.",
+    "skills": ["C#", ".NET", "Flutter", "React", "Angular", "Vue", "Razor", "Radzen", "SQL Server", "Oracle", "Azure"]
   },
   {
     "id": 2,
@@ -14,8 +14,8 @@
     "company": "Mil Tec Tecnologia",
     "period": "Nov 2021 – Abr 2022",
     "location": "Campo Grande, MS",
-    "description": "Desenvolvimento de funcionalidades para sistemas internos, correção de bugs e suporte a aplicações legadas em .NET Framework.",
-    "skills": [".NET Framework", "Javascript", "jQuery", "Bootstrap"]
+    "description": "Trainee. Desenvolvimento e implantação de novos sistemas conforme solicitação.",
+    "skills": ["C#", "Java", "JavaScript", "React Native", ".NET Framework", "Bootstrap", "SQL Server"]
   },
   {
     "id": 3,
@@ -23,7 +23,7 @@
     "company": "Digital Net",
     "period": "Jun 2021 – Nov 2021",
     "location": "Campo Grande, MS",
-    "description": "Atendimento a chamados técnicos de nível 2, análise de logs e suporte à infraestrutura básica de redes e servidores.",
+    "description": "Suporte lógico à equipe externa durante instalações e reparos de fibra óptica. Provisionamento de clientes, validação de sinal e testes de navegação. Gestão de ordens de serviço e monitoramento proativo da estabilidade da rede.",
     "skills": ["Linux", "Redes", "Atendimento"]
   }
 ]
