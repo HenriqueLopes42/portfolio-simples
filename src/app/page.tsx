@@ -12,9 +12,9 @@ export default function Home() {
 
 <Hero 
           githubUsername={githubUser}
-          name="Luís Henrique Lopes"
+          name="Luís Henrique Lopes Siqueira"
           role="Full Stack Developer"
-          description="Desenvolvedor apaixonado por C#, .NET e React. Transformando ideias complexas em código limpo."
+          description="Profissional de Tecnologia com atuação focada em Desenvolvimento de Sistemas. Tenho experiência no ciclo completo de software: análise, desenvolvimento, implantação e manutenção."
         />
         
         {/* Nova Sessão Aqui */}
