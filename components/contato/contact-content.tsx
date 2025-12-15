@@ -13,7 +13,7 @@ const socialLinks = [
   },
   {
     name: "LinkedIn",
-    url: "https://linkedin.com/in/seu-linkedin", // Seu LinkedIn
+    url: "https://linkedin.com/in/henriquelopes42", // Seu LinkedIn
     icon: Linkedin,
     description: "Conecte-se comigo profissionalmente.",
   },
@@ -28,12 +28,12 @@ const socialLinks = [
 
 export function ContactContent() {
   const [copied, setCopied] = useState(false)
-  const email = "seu-email@exemplo.com" // <--- COLOQUE SEU EMAIL AQUI
+  const email = "lhenriquelopes42@gmail.com" 
 
   const handleCopyEmail = () => {
     navigator.clipboard.writeText(email)
     setCopied(true)
-    setTimeout(() => setCopied(false), 2000) // Reseta após 2 segundos
+    setTimeout(() => setCopied(false), 2000) 
   }
 
   return (
