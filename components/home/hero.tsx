@@ -48,13 +48,13 @@ export function Hero({ githubUsername, name, role, description }: HeroProps) {
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center md:justify-start">
               <a 
-                href="#contato" 
+                href="/contato" 
                 className="inline-flex h-12 items-center justify-center rounded-lg bg-foreground px-8 text-base font-medium text-background shadow-lg transition-transform hover:scale-105 hover:opacity-90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-foreground"
               >
                 Entrar em contato
               </a>
               <a 
-                href="/projects" 
+                href="/projetos" 
                 className="inline-flex h-12 items-center justify-center rounded-lg border border-border bg-transparent px-8 text-base font-medium text-foreground shadow-sm transition-colors hover:bg-muted focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-foreground"
               >
                 Ver Projetos
