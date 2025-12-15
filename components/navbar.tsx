@@ -51,7 +51,7 @@ export function Navbar() {
 
         <div className="flex items-center gap-2">
           <Link 
-            href="https://github.com" 
+            href="https://github.com/henriquelopes42" 
             target="_blank"
             className="hidden sm:flex p-2 text-muted-foreground hover:text-foreground transition-colors"
           >
