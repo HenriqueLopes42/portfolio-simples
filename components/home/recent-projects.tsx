@@ -5,7 +5,7 @@ import { ProjectList } from "./project-list"
 // --- CONFIGURAÇÃO ---
 const REPO_COUNT = 6
 // Mude para 'true' no futuro quando quiser filtrar
-const ONLY_WITH_DESCRIPTION = false 
+const ONLY_WITH_DESCRIPTION = true 
 
 interface Repo {
   id: number
